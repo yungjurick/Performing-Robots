@@ -16,7 +16,7 @@ components that can be physically maneuvered without the use of physical human i
 I wanted to emphasize the "movement and dynamicality" when pointing out the definition of a robot as I believe
 a robot should be able to either move its own position or move its parts.
 
-## Process of Production
+## Process of Production And Difficulties in the Process
 
 While I was cleaning my own room, repeatedly sweeping the floor in the same motion, I thought
 of an idea where I can create a simple sweeper robot that can help me to move the amassed
@@ -36,9 +36,10 @@ directly touching the surface for the whole time, I placed additional support on
 
 When I initially attached the motor component to the base without any supporting sides, whenever the robot stopped from moving one position to the next,
 the motor component either kept falling or tilted to one side. So, I had to put additional supporting cardboard to each side of the motor component to prevent
-the component from falling.
+the component from falling. With the added supports on most parts of the robot, I was able to overcome the issue of instability when using carboard to create robots.
 
 ![IMG_1395](https://user-images.githubusercontent.com/15336672/133939121-e4c76ef4-c9f8-41e2-9c27-32a3f7519cb0.jpeg)
+
 
 ## The Story of Sweep-Sweep-Sweep
 
